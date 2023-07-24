@@ -1,0 +1,76 @@
+# relativeURLs = true
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-digital-garden-theme'
+themesdir ='./themes'
+copyright = "Siya Maheshwari ©"
+
+
+[params]
+  name = "Siya Maheshwari"
+  description = "Persuing Passion in Medicine and Music"
+  initials = "Siya Maheshwari"
+  googleAnalytics = ""
+
+  [[params.social]]
+    name = "Twitter"
+    link = "#"
+    icon = "fab fa-twitter"
+
+  [[params.social]]
+    name = "Github"
+    link = "#"
+    icon = "fab fa-github"
+
+  [[params.social]]
+    name = "Medium" 
+    link = "#"
+    icon = "fab fa-medium-m"
+
+  [[params.social]]
+    name = "LinkedIn"
+    link = "#"
+    icon = "fab fa-linkedin-in"
+
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "Library"
+    url = "/library/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+
+[taxonomies]
+  blog_tags = 'blog_tags'
+  project_tags = 'project_tags'
+  library_tags = 'library_tags'
+
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  [markup.highlight]
+    # Choose from https://xyproto.github.io/splash/docs/all.html
+    style = 'monokailight'
