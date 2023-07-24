@@ -5,7 +5,7 @@ summary: "Persuing Passion in Medicine and Music"
 layout: about
 ---
 
-Siya
+Siya Im a senior
 "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
 "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
 What is Lorem Ipsum?
