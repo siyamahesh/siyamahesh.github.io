@@ -1,7 +1,7 @@
 # relativeURLs = true
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Personal Blog'
 theme = 'hugo-digital-garden-theme'
 themesdir ='./themes'
 copyright = "Siya Maheshwari ©"
