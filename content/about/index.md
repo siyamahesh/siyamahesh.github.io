@@ -6,7 +6,6 @@ layout: about
 ---
 
 
-**HI**
 "My name is Siya and I am a senior in highschool. "
 "I am interested in science subjects like biology and physics, but I also enjoy playing the guitar and Indian classical dance."
 
