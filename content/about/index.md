@@ -5,12 +5,12 @@ summary: "Persuing Passion in Medicine and Music"
 layout: about
 ---
 
-## I'm a senior in highschool.
+
 **HI**
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
-What is Lorem Ipsum?
+"My name is Siya and I am a senior in highschool. "
+"I am interested in science subjects like biology and physics, but I also enjoy playing the guitar and Indian classical dance."
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum
+This blog website is a place for me to learn more about coding while also sharing important aspects of my life.
 
-For more information, you can take a look at [Wikipedia page](https://en.wikipedia.org/wiki/Lorem_ipsum)
+*Thank you to Dr. Tapas for getting me started with this blog and guiding me through everything even though I had almost no experience in coding. Thank you for your time and support!*
+
