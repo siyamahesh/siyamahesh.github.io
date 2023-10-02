@@ -1,27 +1,14 @@
 ---
-title: "Markdown Syntax"
+title: "Markdown Syntax Guide"
 date: 2021-08-01
 draft: false
 project_tags: ["markdown"]
 status: "evergreen"
 weight: 2
-summary: "Example of markdown syntax you can use to edit your content"
-links:
-    external_link:
-        text: "Some external link"
-        icon: "fas fa-external-link-alt"
-        href: "#"
-        weight: 1
-    another_link:
-        text: "Another github link"
-        icon: "fab alt brands fa-github"
-        href: "#"
-        weight: 2
+summary: "Examples of markdown syntax included within the template!"
 ---
 
-This is just an intro paragraph to show how the initial letter of each article or post will look.
-The rest of the page shows you the markdown syntax supported by this theme: headings, typography, images, blockquote, lists, code blocks and tables.
-For more markdown syntax guide, please see this [link](https://www.markdownguide.org/basic-syntax/).
+Markdown syntax is a mark-up language that is used to add formatting elements to text. Learning this is important if you want to display bold text, italics, emojis, footnotes, and more. For more markdown syntax guide, see this [link](https://www.markdownguide.org/basic-syntax/).
 
 --- 
 
